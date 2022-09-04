@@ -1,0 +1,4 @@
+baseURL = 'https://BooleanCat.github.io'
+languageCode = 'en-GB'
+title = 'Tom Godkin'
+theme = 'stack'
